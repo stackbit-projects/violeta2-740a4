@@ -8,7 +8,7 @@ sections:
         url: /contact
         style: primary
     image: images/1.jpg
-    image_alt: Rent boat
+    image_alt: Rent boat in benidorm
     media_position: right
     media_width: fifty
     align: left
