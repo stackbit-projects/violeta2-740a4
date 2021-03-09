@@ -14,7 +14,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     background_image: images/13512237_10209693311993370_2115402820514874768_n.jpg
     background_image_repeat: repeat
     background_image_size: contain
