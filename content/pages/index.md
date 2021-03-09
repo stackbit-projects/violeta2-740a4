@@ -18,7 +18,7 @@ sections:
     background_image: images/13512237_10209693311993370_2115402820514874768_n.jpg
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 5
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
