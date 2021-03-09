@@ -8,7 +8,7 @@ sections:
         url: /contact
         style: primary
     image: images/1.jpg
-    image_alt: A smiling woman
+    image_alt: Rent boat
     media_position: right
     media_width: fifty
     align: left
