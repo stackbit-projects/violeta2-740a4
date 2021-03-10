@@ -24,7 +24,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/35463672_570508256682156_1726018459998879744_o.jpg
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
