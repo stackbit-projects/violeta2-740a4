@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.svg
+        image: images/103379343_4095330447174334_4542532289611891258_n.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
