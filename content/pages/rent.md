@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 seo:
-  title: ''
+  title: Rent boat Costa Blanca | Yacht chartering Spain
   description: ''
   robots: []
   extra: []
