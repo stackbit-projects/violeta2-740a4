@@ -17,7 +17,7 @@ sections:
     background_color: none
     background_image: images/barcos-espana.jpg
     background_image_repeat: no-repeat
-    background_image_size: cover
+    background_image_size: contain
     background_image_opacity: 0
   - type: grid_section
     title: Trusted by Companies Big and Small
