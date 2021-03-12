@@ -2,7 +2,9 @@
 title: lorem-ipsum
 seo:
   title: Rent boat Costa Blanca | Yacht chartering Spain
-  description: ''
+  description: >-
+    Rent yacht for group of 12 persons. Events on the sea, snorkeling Located in
+    Benidorm, Altea, Calpe, Albir, Campomanes
   robots: []
   extra: []
   type: stackbit_page_meta
