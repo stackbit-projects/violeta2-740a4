@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: Rent a boat for party easy
     actions:
       - label: Contact Me
         url: /contact
