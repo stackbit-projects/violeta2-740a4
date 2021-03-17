@@ -19,7 +19,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 0
-    title: Rent a boat
+    title: Yacht charter
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
