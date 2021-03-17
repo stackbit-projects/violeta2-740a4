@@ -7,6 +7,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: secondary
+        has_icon: true
     image_alt: Rent party boat in benidorm
     media_position: right
     media_width: fifty
