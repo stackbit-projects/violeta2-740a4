@@ -8,6 +8,7 @@ sections:
         url: /contact
         style: secondary
         has_icon: true
+        icon: linkedin
     image_alt: Rent party boat in benidorm
     media_position: right
     media_width: fifty
